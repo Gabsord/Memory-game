@@ -2,6 +2,7 @@ body{
     background-image: url(../imagens/bg.jpg);
     background-position: center;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .header{
