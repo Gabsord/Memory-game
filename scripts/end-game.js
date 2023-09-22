@@ -14,5 +14,5 @@ reloadBtn.addEventListener('click', () => {
 returnBtn.addEventListener('click', () => {
     localStorage.setItem('attempts', 0)
     console.log('clicou')
-    window.location = 'login.html'
+    window.location = 'indexgit.html'
 })
